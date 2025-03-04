@@ -1,0 +1,8 @@
+numpy == 1.26.4
+pandas == 2.2.2
+nltk == 3.9.1
+textblob == 0.18.0
+emoji == 2.14.1
+scikit-learn == 1.6.1 
+lightgbm == 4.6.0
+
