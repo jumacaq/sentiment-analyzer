@@ -90,4 +90,4 @@ Por lo tanto, LightGBM sería el modelo recomendado para implementar en función
 
 ## Despliegue en Streamlit
 Se despliega el modelo elegido como aplicación web usando la platafroma Streamlit. 
-
+![image](https://github.com/jumacaq/sentiment-analyzer/blob/master/image/streamlit_sentiment.png))
